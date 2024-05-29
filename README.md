@@ -16,23 +16,23 @@ structured driving scenarios of Indian roads. The original Indian driving datase
 **Examples**
 <br>
 <div align="center">
-  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/fcn8-results.png" alt="FCN8-Results">
+  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/Example-Images/fcn8-results.png" alt="FCN8-Results">
   <p><em>FCN-8 Results</em></p>
 </div>
 <div align="center">
-  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/UNet-results.png" alt="UNet-Results">
+  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/Example-Images/UNet-results.png" alt="UNet-Results">
   <p><em>UNet Results</em></p>
 </div>
 <div align="center">
-  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/PSPNET-results.png" alt="PSPNET-Results">
+  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/Example-Images/PSPNET-results.png" alt="PSPNET-Results">
   <p><em>PSPNET Results</em></p>
 </div>
 <div align="center">
-  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/Linknet-results.png" alt="LINKNET-Result">
+  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/Example-Images/Linknet-results.png" alt="LINKNET-Result">
   <p><em>LINKNET Result</em></p>
 </div>
 <div align="center">
-  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/DeepLAbV3%2B.png" alt="DEEPLAbV3+-Results">
+  <img src="https://github.com/SaumyaGupta-99/Semantic-Segmentation-of-Images/blob/main/Example-Images/DeepLAbV3%2B.png" alt="DEEPLAbV3+-Results">
   <p><em>DEEPLABV3+ Results</em></p>
 </div>
 
